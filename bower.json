@@ -1,0 +1,22 @@
+{
+  "name": "dreamovision",
+  "version": "0.0.0",
+  "authors": [
+    "Mo Kakwan <wavewash@yahoo.com>"
+  ],
+  "description": "I dreamed a dream.",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jsartoolkit5": "artoolkit/jsartoolkit5"
+  }
+}
